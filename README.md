@@ -172,7 +172,7 @@ Verified certifications can be added here with their credential links.
 <img
   src="./assets/activity-graph.svg"
   width="100%"
-  alt="Salman's GitHub Contribution Activity Graph"
+  alt="Salman's Contribution Graph"
 />
 
 <br/><br/>
@@ -189,18 +189,21 @@ Verified certifications can be added here with their credential links.
 
 ---
 
-## 07. Contribution Activity
+## 07. Contribution Snake
 
 <div align="center">
 
 <img
-  src="./assets/activity-graph.svg"
-  alt="Salman's Contribution Activity"
+  src="https://raw.githubusercontent.com/techwithsalman/techwithsalman/output/github-contribution-grid-snake-dark.svg"
   width="100%"
+  alt="Animated Contribution Snake"
 />
 
-</div>
+<br/>
 
+<sub>Updated automatically by GitHub Actions</sub>
+
+</div>
 ---
 
 ## 08. Contribution Snake

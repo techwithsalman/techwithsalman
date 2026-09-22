@@ -188,22 +188,6 @@ Verified certifications can be added here with their credential links.
 ---
 
 ---
-
-## 07. Contribution Snake
-
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/techwithsalman/techwithsalman/output/github-contribution-grid-snake-dark.svg"
-  width="100%"
-  alt="Animated Contribution Snake"
-/>
-
-<br/>
-
-<sub>Updated automatically by GitHub Actions</sub>
-
-</div>
 ---
 
 ## 08. Contribution Snake

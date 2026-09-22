@@ -4,19 +4,6 @@
 
 <br/>
 
-<div align="center">
-
-# TECH WITH SALMAN
-
-### Software Engineering | AI | Automation
-
-</div>
-
-<div align="center">
-
-# TECH WITH SALMAN
-
-### Software Engineering | AI | Automation
 
 </div>
 

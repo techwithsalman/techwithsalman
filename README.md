@@ -195,8 +195,8 @@ Verified certifications can be added here with their credential links.
 
 <img
   src="./assets/activity-graph.svg"
+  alt="Salman's Contribution Activity"
   width="100%"
-  alt="Salman's GitHub Contribution Activity Graph"
 />
 
 </div>
@@ -207,21 +207,10 @@ Verified certifications can be added here with their credential links.
 
 <div align="center">
 
-**A little purple energy for every contribution.**
-
-<br/>
-
 <img
   src="https://raw.githubusercontent.com/techwithsalman/techwithsalman/output/github-contribution-grid-snake-dark.svg"
   width="100%"
-  alt="Animated purple contribution snake"
-/>
-
-<br/>
-
-<img
-  src="https://progress-bar.dev/100/?width=900&color=22c55e&title=&suffix="
-  alt="green progress bar"
+  alt="Animated Contribution Snake"
 />
 
 <br/>

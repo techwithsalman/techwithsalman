@@ -2,12 +2,6 @@
   <img src="./banner.png" alt="Tech With Salman Banner" width="100%" />
 </div>
 
-<br/>
-
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,25:171044,50:4C1D95,75:7C3AED,100:2563EB&height=230&section=header&text=TECH%20WITH%20SALMAN&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=37&desc=Software%20Engineering%20%7C%20AI%20%7C%20Automation&descAlignY=58&descSize=19" alt="Tech With Salman Header"/>
 
 <br/>
 

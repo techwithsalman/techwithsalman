@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="./banner.png" alt="Tech With Salman Banner" width="100%" />
-</div>
 
-<br/>
 
 <div align="center">
 

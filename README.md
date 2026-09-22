@@ -1,4 +1,16 @@
+<div align="center">
+  <img src="./banner.png" alt="Tech With Salman Banner" width="100%" />
+</div>
 
+<br/>
+
+<div align="center">
+
+# TECH WITH SALMAN
+
+### Software Engineering | AI | Automation
+
+</div>
 
 <div align="center">
 

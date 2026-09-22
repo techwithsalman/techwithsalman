@@ -2,8 +2,6 @@
   <img src="./banner.png" alt="Tech With Salman Banner" width="100%" />
 </div>
 
-<br/>
-
 <a href="https://github.com/techwithsalman">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&lines=Build+%E2%80%A2+Learn+%E2%80%A2+Create+%E2%80%A2+Grow;Software+Developer+%26+Product+Builder;AI+Automation+%26+Web+Development;Building+Smart+Tools+%26+Digital+Solutions" alt="Animated Introduction"/>
 </a>

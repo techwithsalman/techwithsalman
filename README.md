@@ -165,9 +165,19 @@ Verified certifications can be added here with their credential links.
 
 ---
 
+---
+
 ## 07. Contribution Activity
 
-[**View my GitHub contribution activity →**](https://github.com/techwithsalman?tab=overview)
+<div align="center">
+
+<img
+  src="./assets/activity-graph.svg"
+  width="100%"
+  alt="Salman's GitHub Contribution Activity Graph"
+/>
+
+</div>
 
 ---
 

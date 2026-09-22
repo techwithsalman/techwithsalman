@@ -2,7 +2,6 @@
   <img src="./banner.png" alt="Tech With Salman Banner" width="100%" />
 </div>
 
-
 <br/>
 
 <a href="https://github.com/techwithsalman">

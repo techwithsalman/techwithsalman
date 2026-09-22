@@ -170,21 +170,12 @@ Verified certifications can be added here with their credential links.
 <div align="center">
 
 <img
-  src="./assets/activity-graph.svg"
+  src="./assets/github-analytics-design.png"
+  alt="GitHub Analytics Dashboard"
   width="100%"
-  alt="Salman's Contribution Graph"
-/>
-
-<br/><br/>
-
-<img
-  src="https://streak-stats.demolab.com?user=techwithsalman&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=60A5FA&currStreakLabel=C084FC&sideNums=60A5FA&currStreakNum=C084FC&dates=A1A1AA"
-  width="70%"
-  alt="GitHub Streak"
 />
 
 </div>
-
 ---
 
 ---

@@ -1,562 +1,362 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,40:4C1D95,75:7C3AED,100:2563EB&height=220&section=header&text=TECH%20WITH%20SALMAN&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%20%7C%20Automation&descAlignY=60&descSize=18"/>
-
-<a href="https://github.com/techwithsalman">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Salman;Software+Developer+%26+Tech+Builder;Building+AI-Powered+Digital+Products;Full+Stack+Development+%26+Automation;Turning+Ideas+Into+Real+Software" alt="Typing SVG"/>
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=190&section=header&text=TECH%20WITH%20SALMAN&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%20%7C%20Automation&descAlignY=62&descSize=19"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Software-Developer-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-Automation-4F46E5?style=for-the-badge&logo=robotframework&logoColor=white"/>
-<img src="https://img.shields.io/badge/Product-Builder-7C3AED?style=for-the-badge&logo=codepen&logoColor=white"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Location-Pakistan-4338CA?style=flat-square&logo=googlemaps&logoColor=white"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3200&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=Build+%E2%80%A2+Learn+%E2%80%A2+Create+%E2%80%A2+Grow;AI+Automation+%26+Web+Coding+Enthusiast;Building+Smart+Tools%2C+Creative+Experiences+%26+Digital+Solutions" alt="Typing SVG" />
 
 <br/><br/>
 
 <a href="https://github.com/techwithsalman">
-<img src="https://img.shields.io/badge/PORTFOLIO-GitHub%20Projects-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%20%20SOFTWARE-0B1220?style=for-the-badge&logo=code&logoColor=ffffff&labelColor=0F172A&color=0F172A" />
 </a>
 <a href="https://github.com/techwithsalman">
-<img src="https://img.shields.io/badge/LINKEDIN-Add%20Profile-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%20%20DEVELOPER-6D28D9?style=for-the-badge&logo=gear&logoColor=ffffff&labelColor=4C1D95&color=6D28D9" />
 </a>
 <a href="https://github.com/techwithsalman">
-<img src="https://img.shields.io/badge/CONTACT-GitHub-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%20%20AI-059669?style=for-the-badge&logo=openai&logoColor=ffffff&labelColor=064E3B&color=059669" />
 </a>
 <a href="https://github.com/techwithsalman">
-<img src="https://img.shields.io/badge/GITHUB-Follow%20Me-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%20%20AUTOMATION-0284C7?style=for-the-badge&logo=autohotkey&logoColor=ffffff&labelColor=082F49&color=0284C7" />
+</a>
+<a href="https://github.com/techwithsalman">
+  <img src="https://img.shields.io/badge/%20%20PRODUCT-D97706?style=for-the-badge&logo=codesandbox&logoColor=ffffff&labelColor=451A03&color=D97706" />
+</a>
+<a href="https://github.com/techwithsalman">
+  <img src="https://img.shields.io/badge/%20%20BUILDER-A21CAF?style=for-the-badge&logo=rocket&logoColor=ffffff&labelColor=581C87&color=A21CAF" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=techwithsalman&label=PROFILE+VIEWS&color=7C3AED&style=flat-square"/>
-<a href="https://github.com/techwithsalman?tab=followers">
-<img src="https://img.shields.io/github/followers/techwithsalman?label=FOLLOWERS&style=flat-square&color=6366F1"/>
+<img src="https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-0F172A?style=for-the-badge&logo=googlemaps&logoColor=ffffff&labelColor=111827&color=1D4ED8" />
+
+<br/><br/>
+
+<a href="https://techwithsalman.online/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-0B3B2E?style=for-the-badge&logo=googlechrome&logoColor=93F5D9&labelColor=052E2B&color=064E3B" />
 </a>
 <a href="https://github.com/techwithsalman?tab=repositories">
-<img src="https://img.shields.io/badge/REPOSITORIES-Explore-8B5CF6?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/GITHUB%20PROJECTS-312E81?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1E1B4B&color=4338CA" />
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0A2540&color=0A66C2" />
+</a>
+<a href="mailto:your@email.com">
+  <img src="https://img.shields.io/badge/ADD%20PROFILE-0EA5E9?style=for-the-badge&logo=plus&logoColor=ffffff&labelColor=082F49&color=0284C7" />
+</a>
+<a href="mailto:your@email.com">
+  <img src="https://img.shields.io/badge/CONTACT-F59E0B?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=451A03&color=B45309" />
+</a>
+<a href="https://github.com/techwithsalman">
+  <img src="https://img.shields.io/badge/GITHUB-4338CA?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1E1B4B&color=4338CA" />
+</a>
+<a href="https://github.com/techwithsalman?tab=followers">
+  <img src="https://img.shields.io/badge/FOLLOW%20ME-A21CAF?style=for-the-badge&logo=githubsponsors&logoColor=ffffff&labelColor=581C87&color=A21CAF" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=techwithsalman&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" />
+<a href="https://github.com/techwithsalman?tab=followers">
+  <img src="https://img.shields.io/github/followers/techwithsalman?label=FOLLOWERS&style=for-the-badge&color=1D4ED8&logo=github" />
+</a>
+<a href="https://github.com/techwithsalman?tab=repositories">
+  <img src="https://img.shields.io/badge/REPOSITORIES-Explore-6366F1?style=for-the-badge&logo=github&logoColor=ffffff" />
 </a>
 
 </div>
 
 ---
 
-## 01. About Me
+## <img src="https://img.icons8.com/fluency-systems-filled/24/C084FC/user.png" width="18" /> 01. About Me
 
-```typescript
+| | |
+|---|---|
+| ```ts
 const developer = {
-  name: "Salman",
-  brand: "Tech With Salman",
-  location: "Pakistan",
-
-  interests: [
-    "Software Engineering",
-    "Full Stack Development",
-    "Artificial Intelligence",
-    "Workflow Automation",
-    "Desktop Applications",
-    "Product Engineering"
+  name: "Salman Khan",
+  username: "techwithsalman",
+  role: "Software Developer",
+  passion: [
+    "Design",
+    "AI",
+    "Automation",
+    "Web"
   ],
-
-  focus: "Building practical digital products",
-
-  philosophy: "Build. Learn. Improve. Repeat."
+  location: "Karachi, Pakistan",
+  focus: "Smart tools and digital products"
 };
-```
+``` | <br/> **Designing better experiences with technology.** <br/><br/> <img src="https://img.shields.io/badge/Figma-1E1E2E?style=for-the-badge&logo=figma&logoColor=F24E1E" /> <img src="https://img.shields.io/badge/XD-1E1E2E?style=for-the-badge&logo=adobexd&logoColor=FF61F6" /> <img src="https://img.shields.io/badge/Photoshop-1E1E2E?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" /> <img src="https://img.shields.io/badge/Illustrator-1E1E2E?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" /> |
 
-I am a technology enthusiast and software developer focused on building practical digital products, automation tools, and modern web applications.
+### Hi, I'm Salman
 
-My work spans desktop application development, full-stack web development, AI-assisted workflows, and software product engineering.
+I am an **AI Automation & Web Coding Enthusiast** with a passion for building smart tools, creative digital experiences, and practical software solutions.
 
-I enjoy transforming ideas into working applications, solving technical challenges, and continuously improving software through testing and iteration.
+My work combines **software engineering, UI/UX thinking, automation workflows, full-stack development, and digital product building**.
 
-My interests include AI-powered automation, scalable application architecture, developer tooling, and creating technology that simplifies everyday workflows.
-
-### Currently Open To
-
-- Software development collaborations
-- Open-source contributions
-- AI and automation projects
-- Full-stack application development
-- Product engineering opportunities
+I enjoy transforming ideas into **real web apps, desktop tools, automation systems, and modern user experiences**.
 
 ---
 
-## 02. Tech Stack
+## <img src="https://img.icons8.com/fluency-systems-filled/24/C084FC/source-code.png" width="18" /> 02. Tech Stack
 
 <div align="center">
 
 ### Languages
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark&perline=5" alt="Programming Languages"/>
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma&theme=dark" />
 
-<br/>
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mysql,postgres&theme=dark" />
 
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark&perline=5" alt="Frontend Technologies"/>
-
-<br/>
-
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mysql&theme=dark&perline=5" alt="Backend Technologies"/>
-
-<br/>
-
-### Cloud, DevOps & Tooling
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,cloudflare&theme=dark&perline=6" alt="Development Tools"/>
-
-<br/>
-
-### Desktop & Design
-
-<img src="https://skillicons.dev/icons?i=electron,figma,photoshop&theme=dark&perline=3" alt="Desktop and Design Tools"/>
+### Desktop, DevOps & Tools
+<img src="https://skillicons.dev/icons?i=electron,git,github,vscode,vercel,netlify&theme=dark" />
 
 </div>
 
 ---
 
-## 03. AI / ML Expertise & Interests
+## <img src="https://img.icons8.com/fluency-systems-filled/24/C084FC/artificial-intelligence.png" width="18" /> 03. AI / Automation Focus
 
-| Domain | Focus | Details |
-|:---|:---|:---|
-| AI Integration | Application Development | Integrating AI capabilities into software products |
-| AI Automation | Workflow Engineering | Automating repetitive processes and tasks |
-| AI Video Workflows | Content Technology | Working with AI-assisted video generation workflows |
-| API Integration | Product Engineering | Connecting applications with external services |
-| Intelligent Tools | Development | Building practical AI-assisted utilities |
-| Machine Learning | Learning & Exploration | Exploring ML concepts and applications |
+| Domain | Proficiency | Details |
+|---|---|---|
+| AI Workflow Integration | Advanced | Building AI-assisted tools and workflows |
+| Automation Systems | Advanced | Repetitive task automation and process simplification |
+| Full Stack Apps | Advanced | Modern web app architecture and integration |
+| Desktop Software | Advanced | Electron-based software tools |
+| UI/UX Product Thinking | Strong | Designing useful and clean product experiences |
+| Digital Solutions | Strong | Turning ideas into real tools and platforms |
 
 ---
 
-## 04. Featured Projects
+## <img src="https://img.icons8.com/fluency-systems-filled/24/C084FC/briefcase.png" width="18" /> 04. Featured Projects
 
-<div align="center">
+<details open>
+<summary><b>Social Media OS</b></summary>
 
-### Engineering Projects & Digital Products
+<br/>
 
-A collection of applications, automation tools, and software products.
+**Unified social media workflow platform** for account connection, content publishing, and smart automation.
+
+| Stack | Scale | Performance | Security | Impact |
+|---|---|---|---|---|
+| Next.js, React, TypeScript, Prisma | Multi-platform | Efficient workflow handling | OAuth & credential-based integration | Simplifies content operations |
+
+</details>
+
+<details>
+<summary><b>ToolHubPro</b></summary>
+
+<br/>
+
+A modern **utility tools platform** with multiple digital tools in one place.
+
+| Stack | Scale | Performance | Security | Impact |
+|---|---|---|---|---|
+| Next.js, JavaScript | Web application | Lightweight & responsive | Input validation | Centralized tools experience |
+
+</details>
+
+<details>
+<summary><b>YouTube Uploader</b></summary>
+
+<br/>
+
+An Electron-based desktop uploader with queue, scheduling, and account workflow support.
+
+| Stack | Scale | Performance | Security | Impact |
+|---|---|---|---|---|
+| Electron, Node.js | Desktop tool | Queue-based processing | Account workflow logic | Saves manual upload time |
+
+</details>
+
+<details>
+<summary><b>Agnes Video Studio</b></summary>
+
+<br/>
+
+AI-assisted desktop app focused on video generation and task management.
+
+| Stack | Scale | Performance | Security | Impact |
+|---|---|---|---|---|
+| Electron, React, TypeScript | Desktop app | Generation workflow support | API handling | Speeds up AI video workflows |
+
+</details>
+
+<details>
+<summary><b>Dola Video Studio</b></summary>
+
+<br/>
+
+Prompt queue and multi-account workflow desktop application for AI video tasks.
+
+| Stack | Scale | Performance | Security | Impact |
+|---|---|---|---|---|
+| JavaScript, Electron | Multi-account workflow | Task distribution | Session-based account handling | Organizes AI generation work |
+
+</details>
+
+---
+
+## <img src="https://img.icons8.com/fluency-systems-filled/24/C084FC/commercial-development-management.png" width="18" /> 05. Experience
+
+### Software Developer • Product Builder  
+**Tech With Salman**  
+*Independent Projects • Ongoing*
+
+- Building **full-stack applications**
+- Developing **Electron desktop software**
+- Creating **AI and automation workflows**
+- Designing **product-focused user experiences**
+- Shipping **digital tools and smart solutions**
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/JavaScript-1E1E2E?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/TypeScript-1E1E2E?style=flat-square&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/React-1E1E2E?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-1E1E2E?style=flat-square&logo=nextdotjs&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Electron-1E1E2E?style=flat-square&logo=electron&logoColor=9FEAF9" />
+<img src="https://img.shields.io/badge/AI-Automation-1E1E2E?style=flat-square&logo=openai&logoColor=10A37F" />
 
 </div>
 
-<details>
-<summary><b>01 — Social Media OS | Multi-Platform Management</b></summary>
-
-<br/>
-
-**Social Media OS**
-
-A software platform focused on connecting and managing social media accounts, content publishing, and automation workflows through a unified interface.
-
-| Category | Details |
-|:---|:---|
-| Stack | Next.js, React, TypeScript, Prisma |
-| Scale | Multi-platform architecture |
-| Performance | Background processing and workflow management |
-| Security | OAuth integrations and environment-based credentials |
-| Impact | Simplifying social media management |
-
-**Project Overview**
-
-Social Media OS brings together account connections, video publishing, and content-management workflows.
-
-The project focuses on developing a unified user experience for managing different social platforms while maintaining separate account connections and publishing processes.
-
-**Engineering Focus**
-
-- Full-stack application architecture
-- OAuth authentication integrations
-- API-based publishing workflows
-- Database-backed account management
-- Desktop and web application experience
-
-**Repository:** [Explore My GitHub](https://github.com/techwithsalman?tab=repositories)
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>02 — ToolHubPro | Online Utility Platform</b></summary>
-
-<br/>
-
-**ToolHubPro**
-
-A modern web platform bringing multiple everyday digital utilities into one accessible interface.
-
-| Category | Details |
-|:---|:---|
-| Stack | Next.js, React, JavaScript |
-| Scale | Multi-tool web application |
-| Performance | Responsive web experience |
-| Security | Input validation and application safeguards |
-| Impact | Centralized access to online utilities |
-
-**Project Overview**
-
-ToolHubPro is designed to provide digital tools through a unified web experience.
-
-Its development involves building individual utility modules, improving accessibility across devices, and maintaining a consistent interface.
-
-**Engineering Focus**
-
-- Modular application development
-- Responsive UI architecture
-- File-processing workflows
-- API integration
-- Web application deployment
-
-**Repository:** [Explore My GitHub](https://github.com/techwithsalman?tab=repositories)
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>03 — YouTube Uploader | Desktop Automation</b></summary>
-
-<br/>
-
-**YouTube Uploader**
-
-An Electron-based desktop application for managing YouTube video uploads and scheduling workflows.
-
-| Category | Details |
-|:---|:---|
-| Stack | Electron, JavaScript, Node.js |
-| Scale | Desktop upload queue |
-| Performance | Queue-based workflow management |
-| Security | Account and license management |
-| Impact | Reducing repetitive upload tasks |
-
-**Project Overview**
-
-YouTube Uploader focuses on desktop-based video upload automation.
-
-The application includes video queue management, scheduling workflows, and account-oriented functionality.
-
-Development also involves improving error handling, upload-status accuracy, and desktop packaging.
-
-**Engineering Focus**
-
-- Electron application development
-- Upload queue management
-- Scheduling automation
-- Error handling and debugging
-- Windows desktop distribution
-
-**Repository:** [Explore My GitHub](https://github.com/techwithsalman?tab=repositories)
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>04 — Agnes Video Studio | AI Video Workflow</b></summary>
-
-<br/>
-
-**Agnes Video Studio**
-
-A desktop application project focused on AI-assisted video generation and workflow management.
-
-| Category | Details |
-|:---|:---|
-| Stack | Electron, React, TypeScript |
-| Scale | Multi-account workflow design |
-| Performance | Task and generation management |
-| Security | API key and account handling |
-| Impact | Streamlining AI video workflows |
-
-**Project Overview**
-
-Agnes Video Studio explores how desktop software can simplify AI-assisted video production.
-
-The project combines a desktop interface with video generation workflows and account-management functionality.
-
-**Engineering Focus**
-
-- Desktop application architecture
-- AI service integration
-- React and TypeScript development
-- Task management
-- Application packaging
-
-**Repository:** [Explore My GitHub](https://github.com/techwithsalman?tab=repositories)
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>05 — Dola Video Studio | Video Automation</b></summary>
-
-<br/>
-
-**Dola Video Studio**
-
-A desktop software project for organizing AI video generation prompts, accounts, and task queues.
-
-| Category | Details |
-|:---|:---|
-| Stack | Desktop Application, JavaScript |
-| Scale | Multi-account workflow |
-| Performance | Queue-based task distribution |
-| Security | Account session management |
-| Impact | Organizing video generation tasks |
-
-**Project Overview**
-
-Dola Video Studio focuses on organizing AI video generation through a desktop workflow.
-
-The project explores prompt management, account organization, task distribution, and generated video handling.
-
-**Engineering Focus**
-
-- Desktop workflow automation
-- Queue management
-- Account management
-- Video processing workflows
-- Error handling
-
-**Repository:** [Explore My GitHub](https://github.com/techwithsalman?tab=repositories)
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>06 — Universal License System | Software Licensing</b></summary>
-
-<br/>
-
-**Universal License System**
-
-A software licensing project designed around license generation, activation, and desktop application distribution.
-
-| Category | Details |
-|:---|:---|
-| Stack | JavaScript, Electron |
-| Scale | Multi-product licensing architecture |
-| Performance | License validation workflows |
-| Security | Machine-linked license design |
-| Impact | Centralized software licensing management |
-
-**Project Overview**
-
-The Universal License System explores a shared licensing workflow across multiple desktop applications.
-
-Its design includes product selection, license duration, activation processes, and client application distribution.
-
-**Engineering Focus**
-
-- Software licensing architecture
-- Machine identification
-- License validation
-- Desktop application integration
-- Product distribution workflows
-
-**Repository:** [Explore My GitHub](https://github.com/techwithsalman?tab=repositories)
-
-</details>
-
 ---
 
-## 05. Experience
-
-### Software Developer & Product Builder
-
-**Tech With Salman**
-
-*Independent Software Projects | Ongoing*
-
-Working on software applications, automation tools, and digital products across desktop and web environments.
-
-**Scope of Work**
-
-- Developing full-stack web applications.
-- Building Electron-based desktop software.
-- Designing API integrations and automation workflows.
-- Implementing application interfaces and backend functionality.
-- Debugging applications and improving software reliability.
-- Packaging and testing Windows desktop applications.
-
-**Skills**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-312E81?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-4338CA?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-4F46E5?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-6D28D9?style=flat-square&logo=nextdotjs&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-7C3AED?style=flat-square&logo=electron&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6366F1?style=flat-square&logo=nodedotjs&logoColor=white)
-
----
-
-## 06. Achievements & Project Milestones
-
-<div align="center">
+## <img src="https://img.icons8.com/fluency-systems-filled/24/C084FC/prize.png" width="18" /> 06. Achievements
 
 | Recognition | Details |
-|:---:|:---|
-| Desktop Application Development | Built software projects using Electron |
-| Full Stack Development | Developed web-based application projects |
-| AI Workflow Development | Worked on AI-assisted video application projects |
-| Software Automation | Developed upload and scheduling workflows |
-| Product Engineering | Worked across application development and distribution |
+|---|---|
+| Smart Tool Development | Built practical tools and software workflows |
+| AI Automation | Worked on AI-assisted automation systems |
+| Web Development | Developed modern responsive applications |
+| Desktop Applications | Built Electron-based products |
+| Product Thinking | Focused on useful and user-friendly digital experiences |
+
+---
+
+## <img src="https://img.icons8.com/fluency-systems-filled/24/C084FC/certificate.png" width="18" /> 07. Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-Coming%20Soon-1E1E2E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Oracle-Coming%20Soon-1E1E2E?style=for-the-badge&logo=oracle&logoColor=F80000" />
+<img src="https://img.shields.io/badge/NPTEL-Coming%20Soon-1E1E2E?style=for-the-badge&logo=academia&logoColor=8B5CF6" />
+<img src="https://img.shields.io/badge/Cisco-Coming%20Soon-1E1E2E?style=for-the-badge&logo=cisco&logoColor=1BA0D7" />
 
 </div>
 
 ---
 
-## 07. Certifications
+## <img src="https://img.icons8.com/fluency-systems-filled/24/C084FC/code.png" width="18" /> 08. Coding Profiles
 
 <div align="center">
 
-Verified professional certifications will be added here as they are completed.
-
-<br/>
-
-<img src="https://img.shields.io/badge/AWS-Certifications-312E81?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-Certifications-4338CA?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/NPTEL-Certifications-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cisco-Certifications-4F46E5?style=for-the-badge&logo=cisco&logoColor=white"/>
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-1E1E2E?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+</a>
+<a href="https://www.geeksforgeeks.org/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-1E1E2E?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" />
+</a>
+<a href="https://www.hackerrank.com/">
+  <img src="https://img.shields.io/badge/HackerRank-Profile-1E1E2E?style=for-the-badge&logo=hackerrank&logoColor=00EA64" />
+</a>
+<a href="https://www.codechef.com/">
+  <img src="https://img.shields.io/badge/CodeChef-Profile-1E1E2E?style=for-the-badge&logo=codechef&logoColor=5B4638" />
+</a>
 
 </div>
 
 ---
 
-## 08. Coding Profiles
+## <img src="https://img.icons8.com/fluency-systems-filled/24/C084FC/combo-chart.png" width="18" /> 09. GitHub Analytics
 
 <div align="center">
 
-Coding platform profiles can be connected as they become available.
-
-<br/>
-
-<img src="https://img.shields.io/badge/LeetCode-Coding%20Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Profile-4338CA?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/HackerRank-Coding%20Profile-4F46E5?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-<img src="https://img.shields.io/badge/CodeChef-Coding%20Profile-7C3AED?style=for-the-badge&logo=codechef&logoColor=white"/>
-
-</div>
-
----
-
-## 09. GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=techwithsalman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" alt="GitHub Stats"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=techwithsalman&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=techwithsalman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=60A5FA&text_color=E5E7EB" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=techwithsalman&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=60A5FA&currStreakLabel=C084FC" />
 
 <br/><br/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techwithsalman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techwithsalman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E5E7EB" />
 
 </div>
 
 ---
 
-## 10. GitHub Trophies
+## <img src="https://img.icons8.com/fluency-systems-filled/24/C084FC/trophy.png" width="18" /> 10. GitHub Trophies
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=techwithsalman&theme=discord&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" alt="GitHub Trophies"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=techwithsalman&theme=algolia&no-bg=true&no-frame=true&row=1&column=6" />
 
 </div>
 
 ---
 
-## 11. Contribution Activity
+## <img src="https://img.icons8.com/fluency-systems-filled/24/C084FC/activity-history.png" width="18" /> 11. Contribution Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=techwithsalman&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&area_color=6D28D9&hide_border=true&custom_title=Salman's%20Contribution%20Activity" alt="Contribution Activity Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=techwithsalman&bg_color=0D1117&color=C084FC&line=60A5FA&point=ffffff&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Activity" />
 
 </div>
 
 ---
 
-## 12. Contribution Snake
+## <img src="https://img.icons8.com/fluency-systems-filled/24/C084FC/snake.png" width="18" /> 12. Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/techwithsalman/techwithsalman/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/techwithsalman/techwithsalman/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
 
 ---
 
-## 13. Current Focus
+## <img src="https://img.icons8.com/fluency-systems-filled/24/C084FC/settings.png" width="18" /> 13. Current Focus
 
 ```yaml
-developer: Salman
-
+name: Salman Khan
 brand: Tech With Salman
-
 learning:
   - Advanced Software Engineering
-  - AI Application Development
-  - Backend Architecture
-  - Cloud Technologies
-
+  - AI Product Development
+  - Scalable Automation Systems
 building:
+  - Smart Tools
+  - Web Apps
   - Desktop Applications
-  - Full Stack Web Platforms
-  - AI Automation Tools
-  - Software Licensing Systems
-
 exploring:
-  - Artificial Intelligence
-  - Developer Productivity
-  - Workflow Automation
-  - Digital Product Engineering
-
+  - AI Workflows
+  - Product Design
+  - Developer Automation
 open_to:
   - Collaboration
-  - Open Source
-  - Software Development
-  - AI Projects
+  - Freelance Projects
+  - Software Opportunities
 ```
 
 ---
 
-## 14. Let's Connect
+## <img src="https://img.icons8.com/fluency-systems-filled/24/C084FC/secured-letter.png" width="18" /> 14. Connect
 
 <div align="center">
 
-Interested in software engineering, AI, or building digital products?
-
-Let's connect and explore opportunities to collaborate.
-
-<br/>
-
-<a href="https://github.com/techwithsalman">
-<img src="https://img.shields.io/badge/Portfolio-Explore%20Projects-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="mailto:your@email.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-1E1E2E?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
-
-<a href="https://github.com/techwithsalman">
-<img src="https://img.shields.io/badge/GitHub-Tech%20With%20Salman-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
-
-<br/><br/>
-
-<a href="https://github.com/techwithsalman?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-My%20Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/techwithsalman">
+  <img src="https://img.shields.io/badge/GitHub-techwithsalman-1E1E2E?style=for-the-badge&logo=github&logoColor=ffffff" />
+</a>
+<a href="https://techwithsalman.online/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-1E1E2E?style=for-the-badge&logo=googlechrome&logoColor=60A5FA" />
 </a>
 
 </div>
@@ -565,12 +365,8 @@ Let's connect and explore opportunities to collaborate.
 
 <div align="center">
 
-### "Great software is built one thoughtful decision at a time."
+### “Designing better experiences with technology.”
 
-**BUILD · LEARN · INNOVATE · REPEAT**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,40:7C3AED,75:4C1D95,100:0D0221&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:111827,50:312E81,75:2563EB,100:7C3AED&height=120&section=footer"/>
 
 </div>

@@ -1,0 +1,44 @@
+name: Generate Activity Graph
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "30 2 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create assets directory
+        run: mkdir -p assets
+
+      - name: Generate contribution graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: techwithsalman
+          token: ${{ secrets.GITHUB_TOKEN }}
+          output_path: assets/activity-graph.svg
+          options: "bg_color=0D1117&color=C4B5FD&title_color=C084FC&line=60A5FA&point=FFFFFF&area=true&area_color=312E81&hide_border=true&custom_title=Salman%27s%20Contribution%20Graph&days=31&height=300"
+
+      - name: Verify generated graph
+        run: test -s assets/activity-graph.svg
+
+      - name: Save graph to repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/activity-graph.svg
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Update contribution activity graph"
+            git push
+          fi

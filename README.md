@@ -2,7 +2,16 @@
 
 <img src="./banner.png" width="100%" alt="Tech With Salman — Software Engineering, AI & Automation" />
 
-**Build · Learn · Create · Grow**
+<div align="center">
+
+<a href="https://github.com/techwithsalman">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1200&color=C084FC&center=true&vCenter=true&width=700&lines=Build+%C2%B7+Learn+%C2%B7+Create+%C2%B7+Grow"
+    alt="Build Learn Create Grow"
+  />
+</a>
+
+</div>
 
 <img src="https://img.shields.io/badge/SOFTWARE-111827?style=flat-square&logo=github&logoColor=FFFFFF" alt="Software" />
 <img src="https://img.shields.io/badge/DEVELOPER-6D28D9?style=flat-square&logo=visualstudiocode&logoColor=FFFFFF" alt="Developer" />
@@ -39,7 +48,11 @@ const salman = {
 };
 ```
 
-I build practical web and desktop tools with a focus on clean interfaces, workflow automation, and useful digital products.
+Hi, I'm Salman — a software developer and creative builder focused on web applications, desktop tools, and AI-powered automation.
+
+I enjoy building practical digital products with clean interfaces, smooth workflows, and modern user experiences. My work combines software development, UI/UX design, and automation to turn ideas into useful tools that solve real problems.
+
+I’m especially interested in creating smart systems, improving productivity through automation, and designing products that feel modern, simple, and effective.
 
 **Open to development and design collaborations.**
 
@@ -156,10 +169,19 @@ Verified certifications can be added here with their credential links.
 
 <div align="center">
 
-<img src="./profile/stats.svg" width="49%" alt="GitHub statistics" />
-<img src="https://streak-stats.demolab.com?user=techwithsalman&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA" width="49%" alt="GitHub streak" />
+<img
+  src="./assets/activity-graph.svg"
+  width="100%"
+  alt="Salman's GitHub Contribution Activity Graph"
+/>
 
-<img src="./profile/top-langs.svg" width="58%" alt="Most-used public repository languages" />
+<br/><br/>
+
+<img
+  src="https://streak-stats.demolab.com?user=techwithsalman&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=60A5FA&currStreakLabel=C084FC&sideNums=60A5FA&currStreakNum=C084FC&dates=A1A1AA"
+  width="70%"
+  alt="GitHub Streak"
+/>
 
 </div>
 
@@ -187,12 +209,26 @@ Verified certifications can be added here with their credential links.
 
 **A little purple energy for every contribution.**
 
-<img src="https://raw.githubusercontent.com/techwithsalman/techwithsalman/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated purple contribution snake" />
+<br/>
+
+<img
+  src="https://raw.githubusercontent.com/techwithsalman/techwithsalman/output/github-contribution-grid-snake-dark.svg"
+  width="100%"
+  alt="Animated purple contribution snake"
+/>
+
+<br/>
+
+<img
+  src="https://progress-bar.dev/100/?width=900&color=22c55e&title=&suffix="
+  alt="green progress bar"
+/>
+
+<br/>
 
 <sub>Updated automatically by GitHub Actions</sub>
 
 </div>
-
 ---
 
 ## 09. Connect

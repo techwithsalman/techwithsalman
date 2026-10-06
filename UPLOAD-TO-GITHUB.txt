@@ -1,0 +1,9 @@
+UPLOAD INSTRUCTIONS
+
+1. On GitHub create/open the PUBLIC repository named exactly: techwithsalman
+2. Upload README.md and the entire assets folder to the repository root.
+3. Keep the assets folder name exactly as assets.
+4. Commit changes.
+5. Open https://github.com/techwithsalman and the profile README will appear.
+
+Your original reference repository files were customized for Tech With Salman.

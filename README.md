@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="./assets/hero.png?v=4" width="100%" alt="Salman Khan — Automation Developer, AI Builder and SaaS Creator" />
+  <img src="./assets/hero.png?v=6" width="100%" alt="Salman Khan — Automation Developer, AI Builder and SaaS Creator" />
 </p>
 
 <p align="center">
@@ -14,18 +14,18 @@
 </p>
 
 <p align="center">
-  I build practical <b>automation software</b>, <b>AI-powered creator tools</b> and <b>SaaS products</b> that turn repetitive workflows into reliable systems.
+  I build practical <b>software</b>, <b>AI-powered creator tools</b> and <b>SaaS products</b> that turn repetitive workflows into reliable systems.
 </p>
 
-<img src="./assets/about.svg?v=4" width="100%" alt="How Salman approaches automation, products and problem solving" />
+<img src="./assets/about.svg?v=6" width="100%" alt="How Salman approaches automation, products and problem solving" />
 
 <br>
 
-<img src="./assets/stack.svg?v=4" width="100%" alt="JavaScript, TypeScript, Python, React, Next.js, Node.js, Express, Netlify and LLM APIs" />
+<img src="./assets/stack.svg?v=6" width="100%" alt="JavaScript, TypeScript, Python, React, Next.js, Node.js, Express, Netlify and LLM APIs" />
 
 <br>
 
-<img src="./assets/projects.svg?v=1" width="100%" alt="Featured projects: Social Media OS, uploaders and AI video studios" />
+<img src="./assets/projects.svg?v=3" width="100%" alt="Featured projects: Social Media OS, uploaders and AI video studios" />
 
 ### Current focus
 
@@ -34,11 +34,11 @@
 - **AI video tools** — creator workflows around Agnes AI and Dola AI.
 - **Product engineering** — turning repetitive manual steps into simple, usable software.
 
-<img src="./assets/impact.svg?v=4" width="100%" alt="Tech With Salman builder snapshot" />
+<img src="./assets/impact.svg?v=6" width="100%" alt="Tech With Salman builder snapshot" />
 
 <br>
 
-<img src="./assets/connect.svg?v=4" width="100%" alt="Connect with Tech With Salman" />
+<img src="./assets/connect.svg?v=6" width="100%" alt="Connect with Tech With Salman" />
 
 <p align="center">
   <a href="https://github.com/techwithsalman">GitHub</a>

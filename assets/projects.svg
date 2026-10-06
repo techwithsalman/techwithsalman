@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="660" viewBox="0 0 1200 660" role="img" aria-labelledby="t d">
+<title id="t">Featured products by Tech With Salman</title><desc id="d">Six featured automation and AI products.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07101f"/><stop offset="1" stop-color="#0b1830"/></linearGradient>
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#2563eb"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="660" rx="28" fill="url(#bg)"/>
+<path d="M0 85H1200" stroke="#17345c"/><circle cx="1110" cy="90" r="170" fill="#0d1d38" opacity=".55"/>
+<text x="52" y="56" fill="#5ea4ff" font-family="Arial,sans-serif" font-size="14" letter-spacing="4">04 / FEATURED PRODUCTS</text>
+<text x="52" y="120" fill="#fff" font-family="Arial,sans-serif" font-size="44" font-weight="800">BUILT TO SAVE TIME.</text>
+<text x="52" y="154" fill="#93a7c3" font-family="Arial,sans-serif" font-size="17">Automation software, publishing systems and AI creator tools.</text>
+<g fill="#0e1d36" stroke="#1d3c68" stroke-width="1.4">
+<rect x="52" y="198" width="348" height="168" rx="18"/><rect x="426" y="198" width="348" height="168" rx="18"/><rect x="800" y="198" width="348" height="168" rx="18"/>
+<rect x="52" y="392" width="348" height="168" rx="18"/><rect x="426" y="392" width="348" height="168" rx="18"/><rect x="800" y="392" width="348" height="168" rx="18"/>
+</g>
+<g font-family="Arial,sans-serif">
+<g transform="translate(78 224)"><rect width="48" height="48" rx="12" fill="#0b2b53"/><text x="24" y="32" text-anchor="middle" fill="#38bdf8" font-size="24" font-weight="800">S</text><text x="0" y="82" fill="#fff" font-size="24" font-weight="700">Social Media OS</text><text x="0" y="110" fill="#95a8c4" font-size="15">Schedule, publish and manage content</text><text x="0" y="132" fill="#95a8c4" font-size="15">from one unified dashboard.</text></g>
+<g transform="translate(452 224)"><rect width="48" height="48" rx="12" fill="#1f1238"/><text x="24" y="32" text-anchor="middle" fill="#fb4aa5" font-size="22" font-weight="800">TT</text><text x="0" y="82" fill="#fff" font-size="24" font-weight="700">TikTok Uploader</text><text x="0" y="110" fill="#95a8c4" font-size="15">Desktop publishing workflows with</text><text x="0" y="132" fill="#95a8c4" font-size="15">scheduling and automation.</text></g>
+<g transform="translate(826 224)"><rect width="48" height="48" rx="12" fill="#13294c"/><text x="24" y="32" text-anchor="middle" fill="#60a5fa" font-size="22" font-weight="800">f</text><text x="0" y="82" fill="#fff" font-size="24" font-weight="700">Facebook Uploader</text><text x="0" y="110" fill="#95a8c4" font-size="15">Bulk upload and publishing workflows</text><text x="0" y="132" fill="#95a8c4" font-size="15">for Facebook content.</text></g>
+<g transform="translate(78 418)"><rect width="48" height="48" rx="12" fill="#351318"/><polygon points="18,14 18,34 36,24" fill="#ff334f"/><text x="0" y="82" fill="#fff" font-size="24" font-weight="700">YouTube Uploader</text><text x="0" y="110" fill="#95a8c4" font-size="15">Upload, schedule and organize</text><text x="0" y="132" fill="#95a8c4" font-size="15">video publishing workflows.</text></g>
+<g transform="translate(452 418)"><rect width="48" height="48" rx="12" fill="#102d28"/><text x="24" y="32" text-anchor="middle" fill="#34d399" font-size="21" font-weight="800">AI</text><text x="0" y="82" fill="#fff" font-size="24" font-weight="700">Agnes AI Video Studio</text><text x="0" y="110" fill="#95a8c4" font-size="15">AI-assisted video creation from</text><text x="0" y="132" fill="#95a8c4" font-size="15">scripts and structured prompts.</text></g>
+<g transform="translate(826 418)"><rect width="48" height="48" rx="12" fill="#271b48"/><text x="24" y="32" text-anchor="middle" fill="#a78bfa" font-size="21" font-weight="800">DV</text><text x="0" y="82" fill="#fff" font-size="24" font-weight="700">Dola AI Video Studio</text><text x="0" y="110" fill="#95a8c4" font-size="15">Creator-focused AI video automation</text><text x="0" y="132" fill="#95a8c4" font-size="15">with streamlined workflows.</text></g>
+</g>
+<rect x="52" y="602" width="1096" height="2" rx="1" fill="url(#blue)" opacity=".7" filter="url(#glow)"/>
+<text x="52" y="634" fill="#5f7596" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">BUILD / AUTOMATE / CREATE / SHIP</text>
+</svg>

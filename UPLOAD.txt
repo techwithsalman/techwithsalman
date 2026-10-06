@@ -1,0 +1,16 @@
+TECH WITH SALMAN — PROFILE UPDATE
+
+Upload these items to the ROOT of:
+https://github.com/techwithsalman/techwithsalman
+
+1. README.md
+2. assets/  (entire folder)
+
+On GitHub:
+Add file > Upload files > drag README.md + assets folder/files > Commit changes
+
+Recommended commit message:
+Upgrade GitHub profile design
+
+Do NOT upload the ZIP itself into the repository.
+Extract it first, then upload the files inside it.

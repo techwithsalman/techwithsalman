@@ -1,6 +1,6 @@
 <!-- Tech With Salman GitHub Profile README -->
 <p align="center">
-  <img src="./assets/hero.svg?v=1" width="100%" alt="Hi, I'm Salman Khan — Automation Developer, AI Builder and SaaS Creator behind Tech With Salman." />
+  <img src="./assets/hero.png?v=2" width="100%" alt="Hi, I'm Salman Khan — Automation Developer, AI Builder and SaaS Creator behind Tech With Salman." />
 </p>
 
 <img src="./assets/about-life.svg?v=1" width="100%" alt="Automation, AI tools, SaaS products and creator-focused workflows by Tech With Salman." />
